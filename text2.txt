@@ -1,2 +1,3 @@
 story 2 master version
 edited by github
+add new line
